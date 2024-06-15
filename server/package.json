@@ -9,7 +9,7 @@
   "scripts": {
     "build": "npx tsc",
     "start": "node dist/server.js",
-    "dev": "npm run build && nodemon src/server.ts"
+    "dev": "nodemon src/server.ts"
   },  
   "keywords": [],
   "author": "",
